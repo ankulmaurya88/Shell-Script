@@ -1,0 +1,103 @@
+Comprehensive Shell Scripting Questions
+These questions cover all major shell scripting concepts, including variables, loops, conditions, file handling, process management, and automation.
+
+1️⃣ Basic Shell Scripting
+Write a script to print "Hello, World!" on the terminal.
+
+Write a script that takes user input and prints it.
+
+Write a script that displays the current date and time.
+
+Create a script that lists all files in the current directory.
+
+Write a script that prints the username of the currently logged-in user.
+
+2️⃣ Variables & User Input
+Write a script that asks for two numbers as input and prints their sum, difference, product, and quotient.
+
+Create a script that stores a string in a variable and prints it.
+
+Write a script that swaps two numbers without using a third variable.
+
+Write a script that calculates the area of a circle (given the radius as input).
+
+3️⃣ Conditional Statements (if-else)
+Write a script that checks if a number is even or odd.
+
+Write a script that checks if a given number is positive, negative, or zero.
+
+Write a script that compares two numbers and prints which one is greater.
+
+Write a script that asks for a filename and checks if it exists or not.
+
+Write a script that checks if a file is readable, writable, and executable.
+
+4️⃣ Loops (for, while, until)
+Write a script that prints numbers from 1 to 10 using a for loop.
+
+Write a script that prints even numbers from 1 to 20 using a while loop.
+
+Write a script that calculates the factorial of a number using a while loop.
+
+Write a script that prints the Fibonacci series up to n terms.
+
+Write a script that counts down from 10 to 1 using an until loop.
+
+5️⃣ Functions in Shell Scripting
+Write a script with a function that takes a number and prints its square.
+
+Write a function that checks if a given number is prime or not.
+
+Write a script that calculates the sum of digits of a number using a function.
+
+6️⃣ File Handling & Text Processing
+Write a script that reads a file and prints its content.
+
+Write a script that counts the number of lines, words, and characters in a file.
+
+Write a script that appends user input to a file.
+
+Write a script that searches for a word in a file using grep.
+
+Write a script that replaces a word in a file using sed.
+
+7️⃣ Process Management
+Write a script that displays the currently running processes.
+
+Write a script that finds and kills a process by its name.
+
+Write a script that monitors CPU and memory usage.
+
+8️⃣ Command Line Arguments
+Write a script that accepts two numbers as command-line arguments and performs arithmetic operations.
+
+Write a script that accepts a filename as an argument and checks if it exists.
+
+Write a script that counts how many arguments were passed to it.
+
+9️⃣ Shell Script Automation
+Write a script that backs up a directory into a compressed .tar.gz file.
+
+Write a script that deletes files older than 7 days from a specific folder.
+
+Write a script that automatically sends an email when disk usage exceeds 80%.
+
+Write a script that renames all .txt files in a directory to .bak.
+
+Write a script that schedules a cron job to run every day at midnight.
+
+🔟 Bonus (Advanced Shell Scripting)
+Write a script that pings a list of servers and reports which ones are down.
+
+Write a script that logs system uptime every 10 minutes.
+
+Write a script that extracts email addresses from a text file.
+
+Write a script that monitors network traffic and logs suspicious activity.
+
+Write a script that automates the installation of software packages.
+
+🚀 Want a Challenge?
+💡 Try writing a menu-driven shell script that allows users to choose different operations (e.g., arithmetic, file operations, process monitoring).
+
+These questions cover all major shell scripting concepts and will help you master real-world automation tasks! 🚀
