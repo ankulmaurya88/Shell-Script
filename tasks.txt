@@ -1,0 +1,3 @@
+[ ] I am learning python and Django
+[ ] now chcking this is work or not
+[ ] I have ching the .file is working proper on not
